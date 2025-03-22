@@ -13,9 +13,9 @@ Check out the :doc:`new` section for the new page under development.
 
    This is a second note.
 
-|**This is some bold text**
-|*This is some italic text*
-|`Link to the BBC: <https://bbc.com>`_
+| **This is some bold text**
+| *This is some italic text*
+| `Link to the BBC: <https://bbc.com>`_
 
 New heading
 -----------
