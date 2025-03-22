@@ -13,6 +13,17 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
+.. note::
+
+   This is a second note.
+
+**bold**
+*italic*
+`Link <https://bbc.com>`_
+
+New heading
+-----------
+
 Contents
 --------
 
